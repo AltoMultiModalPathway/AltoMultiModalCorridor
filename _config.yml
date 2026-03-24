@@ -1,0 +1,14 @@
+title: Alto Multimodal Trail
+description: A public-benefit vision for considering a multimodal trail alongside the proposed Alto high-speed rail project.
+url: ""
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+collections: {}
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page

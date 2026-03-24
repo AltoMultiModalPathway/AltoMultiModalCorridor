@@ -1,0 +1,17 @@
+<nav class="breadcrumbs" aria-label="Breadcrumbs">
+  <ol>
+    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+    {% if page.section_title and page.section_url %}
+      <li>
+        {% if page.url == page.section_url %}
+          <span aria-current="page">{{ page.section_title }}</span>
+        {% else %}
+          <a href="{{ page.section_url | relative_url }}">{{ page.section_title }}</a>
+        {% endif %}
+      </li>
+    {% endif %}
+    {% if page.url != '/' and page.title and page.url != page.section_url %}
+      <li><span aria-current="page">{{ page.title }}</span></li>
+    {% endif %}
+  </ol>
+</nav>

@@ -1,0 +1,23 @@
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+
+    <nav class="main-nav" aria-label="Main navigation">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+      <a href="{{ '/the-case/' | relative_url }}"{% if page.url contains '/the-case/' %} aria-current="page"{% endif %}>The Case</a>
+      <a href="{{ '/issues-and-solutions/' | relative_url }}"{% if page.url contains '/issues-and-solutions/' %} aria-current="page"{% endif %}>Issues &amp; Solutions</a>
+      <a href="{{ '/evidence/' | relative_url }}"{% if page.url contains '/evidence/' %} aria-current="page"{% endif %}>Evidence</a>
+      <a href="{{ '/updates/' | relative_url }}"{% if page.url contains '/updates/' %} aria-current="page"{% endif %}>Updates</a>
+      <a href="{{ '/get-involved/' | relative_url }}"{% if page.url contains '/get-involved/' %} aria-current="page"{% endif %}>Get Involved</a>
+    </nav>
+
+    <div class="header-actions">
+      <nav class="utility-nav" aria-label="Utility navigation">
+        <a href="{{ '/faq/' | relative_url }}"{% if page.url == '/faq/' %} aria-current="page"{% endif %}>FAQ</a>
+        <a href="{{ '/contact/' | relative_url }}"{% if page.url == '/contact/' %} aria-current="page"{% endif %}>Contact</a>
+        <a href="{{ '/privacy/' | relative_url }}"{% if page.url == '/privacy/' %} aria-current="page"{% endif %}>Privacy</a>
+      </nav>
+      <a class="button button-primary" href="{{ '/get-involved/take-action/' | relative_url }}">Take Action</a>
+    </div>
+  </div>
+</header>
