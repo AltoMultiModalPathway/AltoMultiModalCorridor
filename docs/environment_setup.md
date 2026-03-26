@@ -27,3 +27,8 @@ bundle install
 bundle exec jekyll serve
 ```
 Now, you should be up and running. 
+
+Open a browser window to:
+```
+http://127.0.0.1:4000/
+```
