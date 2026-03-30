@@ -7,7 +7,6 @@ permalink: /
 ---
 
 <section class="hero">
-  <p class="eyebrow">Advocacy website</p>
   <h1>A Multimodal Trail Along the Alto Corridor</h1>
   <figure>
     <img src="{{ 'assets/images/Multimodal_pathway_conceptual_image.png' | relative_url }}" alt="A conceptual view of the multimodal corridor">
