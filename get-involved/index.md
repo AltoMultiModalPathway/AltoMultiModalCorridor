@@ -1,26 +1,48 @@
 ---
 title: Get Involved
-summary: Clear action pathways for supporters, communities, and interested stakeholders.
 permalink: /get-involved/
 section_title: Get Involved
 section_url: /get-involved/
 ---
 
-<p>This section turns interest into action. The MVP starts with a focused Take Action page. Additional advocacy and connection pathways can be added later once the campaign workflow is ready.</p>
+<figure>
+  <img src="{{ 'assets/images/Multimodal_pathway_get_involved.png' | relative_url }}" alt="Get involved - make your voice heard">
+</figure>
 
-<div class="grid grid-2">
-  <a class="section-card card-link" href="{{ '/get-involved/take-action/' | relative_url }}">
-    <h3>Take Action</h3>
-    <p>Offer immediate, low-friction next steps.</p>
-  </a>
-  <div class="section-card">
-    <h3>Planned expansion</h3>
-    <p>Contact Decision-Makers and Stay Connected can be added in a later phase once the action infrastructure is ready.</p>
-  </div>
-</div>
+### Contact Alto
+
+- Contact [Alto](https://www.altotrain.ca/en/public-consultation).
+  - Public consultations are open now until April 24th, 2026
+
+### Contact elected officials
+
+<p>
+  You can <a href="{{ 'assets/docs/take-action\letter.txt' | relative_url }}" download="letter.txt">download a suggested email here</a>.
+</p>
+
+- Contact the [Federal Minister of Transportation Steven MacKinnon](https://www.ourcommons.ca/Members/en/Steven-MacKinnon(88468))
+- Contact the [Eastern Ontario Warden's Council](https://eowc.org/contact-us/). 
+  - The Wardens are responsible for the counties in Eastern Ontario (Frontenac, Haliburton, Hastings, Kawartha Lakes, Lanark, Leeds and Grenville, Lennox and Addington, Northmberland, Peterborough, Prescott Russell, Prince Edward, Renfrew and Stormont, Dundas, Glengarry)
+- Contact your Federal MP: 
+  - [Ontario MPs](https://www.ourcommons.ca/members/en/search?province=ON)
+  - [Quebec MPs](https://www.ourcommons.ca/members/en/search?province=QC)
+- Contact your Provinical Representative:
+  - [Ontario MPPs](https://www.ola.org/en/members/current/contact-information)
+  - [Quebec MNAs](https://www.assnat.qc.ca/en/deputes/index.html)
+- Contact your Mayor and City Councillor
+  - [Toronto](https://www.toronto.ca/city-government/council/members-of-council/)
+  - [Ottawa](https://ottawa.ca/en/city-hall/mayor-and-city-councillors)
+  - [Laval](https://www.laval.ca/vie-democratique/hotel-de-ville-personnes-elues/membres-conseil-municipal/)
+  - [Montreal](https://montreal.ca/en/elected-officials)
+  - [Quebec](https://www.ville.quebec.qc.ca/apropos/gouvernance/conseil-municipal/membres.aspx)
+
+### Share this website
+
+- share this site with interested community members or partner organizations
+- follow timeline updates as the campaign develops
 
 <div class="callout">
-  <h2>Next step</h2>
-  <p>Start with the most immediate, practical action path.</p>
-  <p><a class="button button-primary" href="{{ '/get-involved/take-action/' | relative_url }}">Take Action</a></p>
+  <h2>Need a quick answer first?</h2>
+  <p>The FAQ gives concise answers to the questions visitors are most likely to ask before acting.</p>
+  <p><a class="button button-primary" href="{{ '/faq/' | relative_url }}">Read the FAQ</a></p>
 </div>

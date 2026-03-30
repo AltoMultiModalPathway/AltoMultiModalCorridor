@@ -1,10 +1,12 @@
 ---
 title: Evidence
-summary: Source-backed background and supporting material for the multimodal pathway
 permalink: /evidence/
 section_title: Evidence
 section_url: /evidence/
 ---
+<figure>
+  <img src="{{ 'assets/images/Multimodal_pathway_evidence_wide_aspect.png' | relative_url }}" alt="Evidence based, source-backed">
+</figure>
 
 ## Research and Policy 
 - [ECF TEN-T Position Paper](https://www.ecf.com/media/resources/2021/TEN-T_ECF_Position_Paper_2020-2.pdf?)
