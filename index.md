@@ -46,13 +46,9 @@ permalink: /
 </section>
 
 <section class="grid grid-3">
-  <a class="section-card card-link" href="{{ '/evidence/research/' | relative_url }}">
-    <h3>Research</h3>
+  <a class="section-card card-link" href="{{ '/evidence/' | relative_url }}">
+    <h3>Evidence and Research</h3>
     <p>Source-backed background and context.</p>
-  </a>
-  <a class="section-card card-link" href="{{ '/updates/timeline/' | relative_url }}">
-    <h3>Timeline</h3>
-    <p>Key project and campaign milestones.</p>
   </a>
   <a class="section-card card-link" href="{{ '/faq/' | relative_url }}">
     <h3>FAQ</h3>
@@ -62,6 +58,5 @@ permalink: /
 
 <section class="cta-panel">
   <h2>What’s happening now</h2>
-  <p>The MVP implementation focuses on explaining the proposal, clarifying the public-interest case, addressing concerns, and creating a clear action path. As the campaign matures, this section can carry current developments, consultation opportunities, and new supporting material.</p>
   <p><a class="button button-primary" href="{{ '/updates/' | relative_url }}">See updates</a></p>
 </section>

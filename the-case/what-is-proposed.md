@@ -5,7 +5,7 @@ section_title: The Case
 section_url: /the-case/
 ---
 <figure>
-  <img src="{{ 'assets/images/Multimodal_pathway_what_is_proposed.png' | relative_url }}" alt="A conceptual view of the multimodal corridor">
+  <img src="{{ 'assets/images/Multimodal_pathway_what_is_proposed.png' | relative_url }}" alt="What is proposed for the multimodal pathway">
 </figure>
 
 The proposal is to consider a multimodal pathway as a complementary public-benefit feature alongside the Alto high-speed rail corridor. This pathway would support cycling, walking, and other forms of local mobility, running parallel to the rail line in segments where it is feasible and beneficial. The idea is not to redefine Alto’s core purpose as an intercity rail system, but to enhance the corridor so it also serves the communities it passes through.
