@@ -9,7 +9,12 @@ permalink: /
 <section class="hero">
   <p class="eyebrow">Advocacy website</p>
   <h1>A Multimodal Trail Along the Alto Corridor</h1>
-  <p>This site explains the case for considering a multimodal trail alongside the proposed Alto high-speed rail project, addresses concerns directly, and gives visitors a clear path to learn more or take action.</p>
+  <figure>
+    <img src="{{ 'assets\images\Multimodal_pathway_conceptual_image.png' | relative_url }}" alt="A conceptual view of the multimodal corridor">
+  </figure>
+  <p>Imagine a continuous multimodal spine stretching across the broader Toronto-Ottawa-Montréal-Québec City corridor, with meaningful links into local communities along the way.</p>
+  <p>Adding a multimodal pathway to the Alto HSR project transforms what was initially only a single-use rail line into a transportation corridor that contributes to national development, serves communities and becomes a tourist destination in and of itself for active transportation enthusiasts.
+  </p>
   <div class="hero-actions">
     <a class="button button-primary" href="{{ '/the-case/' | relative_url }}">Learn the Case</a>
     <a class="button button-secondary" href="{{ '/get-involved/take-action/' | relative_url }}">Take Action</a>

@@ -30,5 +30,16 @@ Now, you should be up and running.
 
 Open a browser window to:
 ```
-http://127.0.0.1:4000/
+http://127.0.0.1:4000/AltoMultiModalCorridor/
+```
+Whenever you make changes locally restart 
+```
+bundle exec jekyll serve
+```
+after changing _config.yml, because Jekyll does not fully pick up config changes without a restart.
+
+## Github
+When you've pushed the site to github you can access it on github at:
+```
+https://altomultimodalpathway.github.io/AltoMultiModalCorridor/
 ```
