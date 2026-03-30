@@ -17,7 +17,7 @@ permalink: /
   </p>
   <div class="hero-actions">
     <a class="button button-primary" href="{{ '/the-case/' | relative_url }}">Learn the Case</a>
-    <a class="button button-secondary" href="{{ '/get-involved/take-action/' | relative_url }}">Take Action</a>
+    <a class="button button-secondary" href="{{ '/get-involved/' | relative_url }}">Get Involved</a>
   </div>
 </section>
 
@@ -33,9 +33,9 @@ permalink: /
     <p><a href="{{ '/the-case/why-it-matters/' | relative_url }}">Why it matters</a></p>
   </div>
   <div class="section-card">
-    <h2>Take action</h2>
+    <h2>Get Involved</h2>
     <p>What can you do to advocate for a multimodal pathway?</p>
-    <p><a href="{{ '/get-involved/take-action/' | relative_url }}">Take action</a></p>
+    <p><a href="{{ '/get-involved/' | relative_url }}">Get Involved</a></p>
   </div>
 </section>
 
