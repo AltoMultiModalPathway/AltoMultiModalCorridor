@@ -5,7 +5,7 @@ section_title: The Case
 section_url: /the-case/
 ---
 <figure>
-  <img src="{{ 'assets\images\Multimodal_pathway_why_it_matters.png' | relative_url }}" alt="A conceptual view of the multimodal corridor">
+  <img src="{{ 'assets/images/Multimodal_pathway_why_it_matters.png' | relative_url }}" alt="A conceptual view of the multimodal corridor">
 </figure>
 
 Major infrastructure corridors like Alto do more than move people between cities. They shape how land is used, how communities connect, and how public space is experienced for generations. As such, the conversation around Alto is not only about travel times or economic competitiveness—it is also about what kind of corridor is being created, and who benefits from it.
