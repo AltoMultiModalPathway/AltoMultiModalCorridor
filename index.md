@@ -24,7 +24,7 @@ permalink: /
 <section class="grid grid-3">
   <div class="section-card">
     <h2>What is the idea?</h2>
-    <p>A public-benefit proposal to consider a multimodal trail alongside the broader Alto corridor concept.</p>
+    <p>Add a multimodal pathway parallel to the Alto High-Speed Rail.</p>
     <p><a href="{{ '/the-case/what-is-proposed/' | relative_url }}">What is proposed?</a></p>
   </div>
   <div class="section-card">
@@ -34,7 +34,7 @@ permalink: /
   </div>
   <div class="section-card">
     <h2>Take action</h2>
-    <p>Supporters need a clear, low-friction path to learn, share, and advocate. Start with the most immediate next steps.</p>
+    <p>What can you do to advocate for a multimodal pathway?</p>
     <p><a href="{{ '/get-involved/take-action/' | relative_url }}">Take action</a></p>
   </div>
 </section>
