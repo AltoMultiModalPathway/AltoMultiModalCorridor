@@ -6,8 +6,14 @@ section_title: The Case
 section_url: /the-case/
 ---
 
+  <figure>
+    <img src="{{ 'assets/images/Multimodal_Pathway_wide_aspect.png' | relative_url }}" alt="A conceptual view of the multimodal corridor">
+  </figure>
+
+### Proposal
 <p>We propose that the Alto High-Speed Rail corridor be designed from the outset as a multimodal transportation corridor, not just a rail line, by incorporating a parallel, continuous pathway for cycling, walking, and local mobility alongside the tracks. The concept leverages the inherent advantages of rail corridors—direct routes, gentle grades, and long-distance connectivity—to create a “spine” that links communities, with local “offshoot” connections feeding into towns, trails, and urban networks. By integrating this pathway early in the design (potentially using or co-planning maintenance/service access), the proposal aims to deliver immediate local benefits—such as recreation, tourism, and regional connectivity—while also addressing key stakeholder concerns about community severance, trail disruption, and lack of local value. In essence, the proposal transforms Alto from a single-purpose intercity rail project into a nation-building, community-serving multimodal corridor that works at national, regional and local scales.</p>
 
+### Why it matters
 <p>This matters because without deliberate multimodal integration, a high-speed rail corridor risks becoming a barrier that divides communities and removes existing connectivity, while offering limited local benefit to the regions it passes through. By contrast, incorporating a parallel pathway from the outset turns the corridor into a shared asset—one that delivers immediate value to residents through recreation, tourism, and active transportation, while strengthening regional connectivity and public support. It is also far more cost-effective to design this integration early than to retrofit it later, making it a practical way to maximize the return on a major national infrastructure investment.</p>
 
 <div class="grid grid-2">
