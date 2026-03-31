@@ -5,7 +5,7 @@ section_title: The Case
 section_url: /the-case/
 ---
 <figure>
-  <img src="{{ 'assets/images/Multimodal_pathway_why_it_matters.png' | relative_url }}" alt="Why it matters for the multimodal pathway">
+  <img src="{{ 'assets/images/Multimodal_pathway_why_it_matters.png' | relative_url }}" alt="Image showing the high speed rail line with train and adjacent multimodal corridor with cyclists, pedestrians, joggers, and people pushing strollers. There is a small village with stores and a cafe near to the trail. Image text: Local Use & Quality of Life: the trail offers a place to walk, bike and enjoy the landscape, fostering active, healthy communities. Tourism & Economy: A trail can link communities, support regional tourism, and bring more visitors to local shops and services. Active Transportation: A trail provides safe, direct routes for cycling and walking, encouraging sustainable travel. Connectivity & Barrier Prevention: A trail can prserve access or create new links for communities where the rail line might otherwise divide them. Integrating public pathways during design is more practical and cost effective than retrofitting later.">
 </figure>
 
 Major infrastructure corridors like Alto do more than move people between cities. They shape 

@@ -15,9 +15,9 @@ A multimodal pathway alongside the Alto corridor is not presented as a universal
 
 Our purpose here is practical:
 
-- to show **where a pathway may help**
-- to state clearly **where it does not resolve the underlying issue**
-- to identify **what would still need study**
+- to show where a pathway may help
+- to state clearly where it does not resolve the underlying issue
+- to identify what would still need study
 
 This allows decision-makers and stakeholders to evaluate the idea on its merits.
 
@@ -39,7 +39,7 @@ These are foundational concerns and must be taken seriously.
 
 ### How might the trail help?
 
-A pathway can potentially support better corridor management **if designed correctly**:
+A pathway can potentially support better corridor management if designed correctly:
 
 - formalizing access reduces informal trespassing  
 - channelizing crossings improves safety compared to unmanaged crossings  
@@ -48,9 +48,9 @@ A pathway can potentially support better corridor management **if designed corre
 
 ### What are the limitations?
 
-- A trail **does not eliminate railroad liability concerns**  
-- It **does not remove the need for strict separation and fencing**  
-- Poorly designed trails can **increase risk**, not reduce it  
+- A trail does not eliminate railroad liability concerns  
+- It does not remove the need for strict separation and fencing  
+- Poorly designed trails can increase risk, not reduce it  
 - Rail operational requirements always take priority  
 
 ### What still needs study?
@@ -69,13 +69,13 @@ A pathway can potentially support better corridor management **if designed corre
 
 Many stakeholders—particularly in Eastern Ontario—have raised concerns about:
 
-- **no local economic benefit**
+- no local economic benefit
 - infrastructure passing through without serving communities  
 - lack of visible return for affected regions  
 
 ### How might the trail help?
 
-A pathway can provide **immediate, place-based value**:
+A pathway can provide immediate, place-based value:
 
 - supports tourism and local business activity  
 - creates a usable asset for residents (recreation, mobility)  
@@ -84,7 +84,7 @@ A pathway can provide **immediate, place-based value**:
 
 ### What are the limitations?
 
-- A trail **does not replace the economic impact of a station**  
+- A trail does not replace the economic impact of a station  
 - Benefits may vary significantly by location  
 - It is not a substitute for broader economic development strategy  
 
@@ -109,7 +109,7 @@ Stakeholders have raised concerns about:
 
 ### How might the trail help?
 
-A pathway offers a way to **preserve or enhance connectivity**:
+A pathway offers a way to preserve or enhance connectivity:
 
 - replaces or integrates disrupted trail segments  
 - creates a continuous “spine” linking multiple networks  
@@ -120,7 +120,7 @@ A pathway offers a way to **preserve or enhance connectivity**:
 
 - Not all existing trails can be directly co-located  
 - Some segments may require rerouting or redesign  
-- Connectivity depends on **local linkages**, not just the main corridor  
+- Connectivity depends on local linkages, not just the main corridor  
 
 ### What still needs study?
 
@@ -143,7 +143,7 @@ Communities are concerned about:
 
 ### How might the trail help?
 
-A pathway can help maintain **functional connectivity**:
+A pathway can help maintain functional connectivity:
 
 - provides a parallel route for local movement  
 - supports planned crossing points  
@@ -152,7 +152,7 @@ A pathway can help maintain **functional connectivity**:
 
 ### What are the limitations?
 
-- A pathway **does not eliminate the barrier effect** of a fenced rail corridor  
+- A pathway does not eliminate the barrier effect of a fenced rail corridor  
 - Crossings remain critical and limited in number  
 - Access benefits depend on local design and connections  
 
@@ -177,7 +177,7 @@ Stakeholders have raised concerns about:
 
 ### How might the trail help?
 
-A pathway may offer **incremental improvements**, such as:
+A pathway may offer incremental improvements, such as:
 
 - consolidating infrastructure within a single corridor footprint  
 - supporting low-carbon transportation modes  
@@ -185,7 +185,7 @@ A pathway may offer **incremental improvements**, such as:
 
 ### What are the limitations?
 
-- A trail **does not resolve environmental impact concerns**  
+- A trail does not resolve environmental impact concerns  
 - It does not eliminate land acquisition or fragmentation issues  
 - Environmental effects must be assessed independently  
 
@@ -204,7 +204,7 @@ A pathway may offer **incremental improvements**, such as:
 
 A consistent theme across stakeholders is:
 
-- **adequate consultation**
+- adequate consultation
 - perceived imbalance between impacts and benefits  
 - concerns about fairness between urban and rural regions  
 
@@ -218,7 +218,7 @@ A pathway can contribute to a more balanced outcome:
 
 ### What are the limitations?
 
-- A trail **does not replace meaningful consultation**  
+- A trail does not replace meaningful consultation  
 - It does not resolve all fairness concerns  
 - It must be developed collaboratively to build trust  
 
@@ -233,16 +233,16 @@ A pathway can contribute to a more balanced outcome:
 
 ## Bottom line
 
-A multimodal pathway is **not a universal solution**.
+A multimodal pathway is not a universal solution.
 
-However, it is a **practical, evidence-informed option** that may:
+However, it is a practical, evidence-informed option that may:
 
 - improve local benefit  
 - support connectivity  
 - reduce some negative impacts  
 - strengthen the overall public value of the corridor  
 
-Implemention requires **careful, location-specific study**.
+Implemention requires careful, location-specific study.
 
 The key insight is simple:
 

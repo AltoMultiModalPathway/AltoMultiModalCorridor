@@ -7,7 +7,7 @@ section_url: /the-case/
 ---
 
   <figure>
-    <img src="{{ 'assets/images/Multimodal_Pathway_wide_aspect.png' | relative_url }}" alt="A conceptual view of the multimodal corridor">
+    <img src="{{ 'assets/images/Multimodal_pathway_the_case_wide_aspect_ratio.png' | relative_url }}" alt="The Case caption. Image showing High Speed Rail as a National Transportation Asset and the Multimodal pathway with cyclists, joggers and walkers (showing local value)">
   </figure>
 
 ### Proposal
