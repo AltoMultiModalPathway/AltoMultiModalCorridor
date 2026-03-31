@@ -36,10 +36,37 @@ section_url: /get-involved/
   - [Montreal](https://montreal.ca/en/elected-officials)
   - [Quebec](https://www.ville.quebec.qc.ca/apropos/gouvernance/conseil-municipal/membres.aspx)
 
-### Share this website
+## Download our backgrounder
+  <p>Download our <a href="{{ 'assets/docs/take-action/Alto Multimodal Pathway Backgrounder 3.pdf' | relative_url }}" download="Alto Multimodal Pathway Backgrounder 3.pdf">1-page backrounder</a> and share with your friends, family and decision makers.</p>
 
-- share this site with interested community members or partner organizations.
-- download our <a href="{{ 'assets/docs/take-action/Alto Multimodal Pathway Backgrounder 3.pdf' | relative_url }}" download="Alto Multimodal Pathway Backgrounder 3.pdf">1-page backrounder</a> and share with your friends, family and decision makers.
+<div class="share-block">
+  <h2>Share this page</h2>
+  <p>If you found this page useful, please share it with others.</p>
+
+  <button type="button" class="button button-secondary" id="share-page-button">Share this page</button>
+
+</div>
+
+<script>
+document.getElementById('share-page-button')?.addEventListener('click', async () => {
+  const shareData = {
+    title: document.title,
+    text: "Take a look at this page.",
+    url: window.location.href
+  };
+
+  if (navigator.share) {
+    try {
+      await navigator.share(shareData);
+    } catch (err) {
+      console.log("Share cancelled or failed", err);
+    }
+  } else {
+    navigator.clipboard.writeText(window.location.href);
+    alert("Page link copied to clipboard.");
+  }
+});
+</script>
 
 <div class="callout">
   <h2>Need a quick answer first?</h2>

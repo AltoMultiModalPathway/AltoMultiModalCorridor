@@ -249,6 +249,35 @@ The key insight is simple:
 > If considered early, the option remains open.  
 > If ignored early, it becomes much harder to realize later.
 
+<div class="share-block">
+  <h2>Share this page</h2>
+  <p>If you found this useful, please share it with others.</p>
+
+  <button type="button" class="button button-secondary" id="share-page-button">Share this page</button>
+
+</div>
+
+<script>
+document.getElementById('share-page-button')?.addEventListener('click', async () => {
+  const shareData = {
+    title: document.title,
+    text: "Take a look at this page.",
+    url: window.location.href
+  };
+
+  if (navigator.share) {
+    try {
+      await navigator.share(shareData);
+    } catch (err) {
+      console.log("Share cancelled or failed", err);
+    }
+  } else {
+    navigator.clipboard.writeText(window.location.href);
+    alert("Page link copied to clipboard.");
+  }
+});
+</script>
+
 <div class="callout">
   <h2>Next step</h2>
   <p>Readers who want to validate the argument should move next to the evidence section.</p>

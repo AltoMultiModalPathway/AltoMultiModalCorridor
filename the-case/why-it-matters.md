@@ -38,8 +38,36 @@ Rather, it is about asking whether the corridor can also deliver additional publ
 
 In that sense, the multimodal pathway concept is part of a broader public-interest conversation: how a major national investment can be designed not only to move people efficiently between cities, but also to create lasting, tangible value for the communities it touches.
 
+<div class="share-block">
+  <h2>Share this page</h2>
+  <p>If you found this useful, please share it with others.</p>
+
+  <button type="button" class="button button-secondary" id="share-page-button">Share this page</button>
+
+</div>
+
+<script>
+document.getElementById('share-page-button')?.addEventListener('click', async () => {
+  const shareData = {
+    title: document.title,
+    text: "Take a look at this page.",
+    url: window.location.href
+  };
+
+  if (navigator.share) {
+    try {
+      await navigator.share(shareData);
+    } catch (err) {
+      console.log("Share cancelled or failed", err);
+    }
+  } else {
+    navigator.clipboard.writeText(window.location.href);
+    alert("Page link copied to clipboard.");
+  }
+});
+</script>
+
 <div class="callout">
   <h2>Next step</h2>
-  <p>After understanding the case, readers should be able to test it against concerns and tradeoffs.</p>
   <p><a class="button button-primary" href="{{ '/issues-and-solutions/' | relative_url }}">Issues &amp; Solutions</a></p>
 </div>
