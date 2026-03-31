@@ -1,6 +1,5 @@
 ---
 title: Concerns
-summary: A clear, neutral summary of the kinds of concerns that typically arise around large corridor projects and adjacent public-benefit proposals.
 permalink: /issues-and-solutions/concerns/
 section_title: Issues & Solutions
 section_url: /issues-and-solutions/

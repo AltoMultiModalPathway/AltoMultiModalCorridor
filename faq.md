@@ -1,12 +1,12 @@
 ---
 title: FAQ
-summary: Quick answers to recurring questions about the site and proposal.
+summary: Quick answers to recurring questions about the proposal.
 permalink: /faq/
 ---
 
 ## Is this opposing high-speed rail?
 
-No. The site is framed around considering a multimodal trail as a public-benefit complement alongside the broader corridor discussion.
+No. We are advocating for a multimodal trail as a public-benefit complement alongside the broader corridor.
 
 ## Why add a trail?
 
@@ -14,7 +14,7 @@ Because a large corridor can potentially create broader public value through acc
 
 ## Does the trail solve every concern?
 
-No. One of the site’s core principles is to distinguish between what the trail may help with and what still requires study or separate decisions.
+No. We realize that a multimodal pathway is not the solution to every concern. We try distinguish between what the trail may help with and what still requires study or separate decisions.
 
 ## Where should I start?
 
