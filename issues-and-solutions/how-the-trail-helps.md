@@ -260,8 +260,6 @@ The key insight is simple:
 <script>
 document.getElementById('share-page-button')?.addEventListener('click', async () => {
   const shareData = {
-    title: document.title,
-    text: "Take a look at this page.",
     url: window.location.href
   };
 

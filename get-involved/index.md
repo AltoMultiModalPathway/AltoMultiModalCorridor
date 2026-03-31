@@ -50,8 +50,6 @@ section_url: /get-involved/
 <script>
 document.getElementById('share-page-button')?.addEventListener('click', async () => {
   const shareData = {
-    title: document.title,
-    text: "Take a look at this page.",
     url: window.location.href
   };
 

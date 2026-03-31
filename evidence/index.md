@@ -68,8 +68,6 @@ When these principles are applied, rail-with-trail corridors can deliver signifi
 <script>
 document.getElementById('share-page-button')?.addEventListener('click', async () => {
   const shareData = {
-    title: document.title,
-    text: "Take a look at this page.",
     url: window.location.href
   };
 

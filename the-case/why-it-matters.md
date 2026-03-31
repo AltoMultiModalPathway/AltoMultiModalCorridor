@@ -49,8 +49,6 @@ In that sense, the multimodal pathway concept is part of a broader public-intere
 <script>
 document.getElementById('share-page-button')?.addEventListener('click', async () => {
   const shareData = {
-    title: document.title,
-    text: "Take a look at this page.",
     url: window.location.href
   };
 
