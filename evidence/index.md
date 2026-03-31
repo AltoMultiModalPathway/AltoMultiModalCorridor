@@ -45,7 +45,7 @@ The [F3 Bicycle Highway](https://www.werkenaandering.be/en/working-on/cycling-in
 
 ## US Department of Transport. Rails with Trails: Lessons Learned
 <figure>
-  <img src="{{ 'assets\images\Schuylkill_River_Trail_Pennsylvania_Photo_Credit_Circuit_Trail_Coalition.png' | relative_url }}" alt="An adult and child cycle along a trail alongside a railway line with a freight train on it. Photo Credit: Circuit Trail Coalition">
+  <img src="{{ '/assets/images/Schuylkill_River_Trail_Pennsylvania_Photo_Credit_Circuit_Trail_Coalition.png' | relative_url }}" alt="An adult and child cycle along a trail alongside a railway line with a freight train on it. Photo Credit: Circuit Trail Coalition">
   <figcaption>The Schuylkill River Trail in Pennsylvania. Photo credit: Circuit Trail Coalition</figcaption>
 </figure>
 [The U.S. Department of Transportation’s Rails-with-Trails: Lessons Learned](https://railroads.dot.gov/sites/fra.dot.gov/files/2021-06/Rails%20with%20Trails%20Best%20Practices%20and%20Lessons%20Learned.pdf) study demonstrates that trails adjacent to active rail lines are feasible and already exist in many jurisdictions, including alongside higher-speed passenger services. The study concludes that success depends on 
