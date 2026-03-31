@@ -13,7 +13,7 @@ permalink: /
   </figure>
 
   <p>Imagine a continuous multimodal spine stretching across the broader Toronto-Ottawa-Montréal-Québec City corridor, with meaningful links into local communities along the way.</p>
-  <p>Adding a multimodal pathway to the Alto HSR project transforms what was initially only a single-use rail line into a transportation corridor that contributes to national development, serves communities and becomes a tourist destination in and of itself for active transportation enthusiasts.
+  <p>Adding a year-round multimodal pathway (walk, run, bike, ski, etc) to the Alto HSR project transforms what was initially only a single-use rail line into a transportation corridor that contributes to national development, serves communities and becomes a tourist destination in and of itself for active transportation enthusiasts.
   </p>
   <div class="hero-actions">
     <a class="button button-primary" href="{{ '/the-case/' | relative_url }}">Learn the Case</a>
