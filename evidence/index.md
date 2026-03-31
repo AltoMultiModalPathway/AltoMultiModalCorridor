@@ -15,7 +15,7 @@ section_url: /evidence/
 </figure>
 [Belgium’s F1 cycle highway](https://vb.nweurope.eu/projects/project-search/cycle-highways-innovation-for-smarter-people-transport-and-spatial-planning/news/f1-cycling-on-a-highway-along-a-railroad-line/) presents a strong real-world example of using a rail corridor for high-quality cycling infrastructure. 
 - The route follows the railway between Antwerp and Mechelen, including the Amsterdam–Brussels high-speed line.
-- Now carryies more than 4,000 cyclists per workday on its busiest sections. 
+- Now carries more than 4,000 cyclists per workday on its busiest sections. 
 - The route has been progressively improved through priority changes at crossings and new cycling bridges alongside rail infrastructure, showing how a rail corridor can support both national transport and local active mobility at the same time.
 
 ## F3 Bicycle Highway
