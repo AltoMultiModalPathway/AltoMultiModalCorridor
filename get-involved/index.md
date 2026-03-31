@@ -38,8 +38,8 @@ section_url: /get-involved/
 
 ### Share this website
 
-- share this site with interested community members or partner organizations
-- follow timeline updates as the campaign develops
+- share this site with interested community members or partner organizations.
+- download our <a href="{{ 'assets\docs\take-action\Alto Multimodal Pathway Backgrounder 3.pdf' | relative_url }}" download="/Alto Multimodal Pathway Backgrounder 3.pdf">1-page backrounder</a> and share with your friends, family and decision makers.
 
 <div class="callout">
   <h2>Need a quick answer first?</h2>
