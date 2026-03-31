@@ -9,7 +9,7 @@ permalink: /
 <section class="hero">
   <h1>A Multimodal Pathway Along the Alto Corridor</h1>
   <figure>
-    <img src="{{ 'assets/images/Multimodal_Pathway_wide_aspect.png' | relative_url }}" alt="A conceptual view of the multimodal corridor">
+    <img src="{{ '/assets/images/Multimodal_Pathway_wide_aspect.png' | relative_url }}" alt="A conceptual view of the multimodal corridor">
   </figure>
 
   <p>Imagine a continuous multimodal spine stretching across the broader Toronto-Ottawa-Montréal-Québec City corridor, with meaningful links into local communities along the way.</p>

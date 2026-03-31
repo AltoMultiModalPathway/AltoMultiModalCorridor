@@ -5,7 +5,7 @@ section_title: Issues & Solutions
 section_url: /issues-and-solutions/
 ---
 <figure>
-  <img src="{{ 'assets/images/Multimodal_pathway_issues_and_concerns_wide_aspect_ratio.png' | relative_url }}" alt="Evidence based, source-backed">
+  <img src="{{ '/assets/images/Multimodal_pathway_issues_and_concerns_wide_aspect_ratio.png' | relative_url }}" alt="Evidence based, source-backed">
 </figure>
 
 ## Railroad operations concerns

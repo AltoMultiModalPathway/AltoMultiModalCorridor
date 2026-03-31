@@ -5,7 +5,7 @@ section_title: Evidence
 section_url: /evidence/
 ---
 <figure>
-  <img src="{{ 'assets/images/Multimodal_pathway_evidence_wide_aspect.png' | relative_url }}" alt="Evidence based, source-backed">
+  <img src="{{ '/assets/images/Multimodal_pathway_evidence_wide_aspect.png' | relative_url }}" alt="Evidence based, source-backed">
 </figure>
 
 ## Research and Policy 

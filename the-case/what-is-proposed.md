@@ -5,7 +5,7 @@ section_title: The Case
 section_url: /the-case/
 ---
 <figure>
-  <img src="{{ 'assets/images/Multimodal_pathway_what_is_proposed.png' | relative_url }}" alt="What is proposed for the multimodal pathway. Image showing High Speed rail and adjacent multimodal pathway with text reading 'trail connections', 'recreation and commuting', 'access and tourism', and 'linking local communities'. Wakers and cyclists enjoying active transportation alongside the rail line. Graphics for 'Regional Spine', 'Trail Networks', 'Consistent and Gentle Grade' and 'Local Benefits'">
+  <img src="{{ '/assets/images/Multimodal_pathway_what_is_proposed.png' | relative_url }}" alt="What is proposed for the multimodal pathway. Image showing High Speed rail and adjacent multimodal pathway with text reading 'trail connections', 'recreation and commuting', 'access and tourism', and 'linking local communities'. Wakers and cyclists enjoying active transportation alongside the rail line. Graphics for 'Regional Spine', 'Trail Networks', 'Consistent and Gentle Grade' and 'Local Benefits'">
 </figure>
 
 The proposal is to consider a multimodal pathway as a complementary public-benefit feature alongside the Alto high-speed rail corridor. This pathway would support year-round activities such as:

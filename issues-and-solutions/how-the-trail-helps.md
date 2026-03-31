@@ -6,7 +6,7 @@ section_url: /issues-and-solutions/
 ---
 
 <figure>
-  <img src="{{ 'assets/images/Multimodal_pathway_how_the_trail_helps_wide_aspect_ratio.png' | relative_url }}" alt="Evidence based, source-backed">
+  <img src="{{ '/assets/images/Multimodal_pathway_how_the_trail_helps_wide_aspect_ratio.png' | relative_url }}" alt="Evidence based, source-backed">
 </figure>
 
 ## A disciplined argument

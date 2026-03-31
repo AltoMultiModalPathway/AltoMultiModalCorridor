@@ -6,7 +6,7 @@ section_url: /get-involved/
 ---
 
 <figure>
-  <img src="{{ 'assets/images/Multimodal_pathway_get_involved.png' | relative_url }}" alt="Get involved - make your voice heard">
+  <img src="{{ '/assets/images/Multimodal_pathway_get_involved.png' | relative_url }}" alt="Get involved - make your voice heard">
 </figure>
 
 ### Contact Alto
@@ -17,7 +17,7 @@ section_url: /get-involved/
 ### Contact elected officials
 
 <p>
-  You can <a href="{{ 'assets/docs/take-action\letter.txt' | relative_url }}" download="letter.txt">download a suggested email here</a>.
+  You can <a href="{{ 'assets/docs/take-action/letter.txt' | relative_url }}" download="letter.txt">download a suggested email here</a>.
 </p>
 
 - Contact the [Federal Minister of Transportation Steven MacKinnon](https://www.ourcommons.ca/Members/en/Steven-MacKinnon(88468))
@@ -39,7 +39,7 @@ section_url: /get-involved/
 ### Share this website
 
 - share this site with interested community members or partner organizations.
-- download our <a href="{{ 'assets\docs\take-action\Alto Multimodal Pathway Backgrounder 3.pdf' | relative_url }}" download="/Alto Multimodal Pathway Backgrounder 3.pdf">1-page backrounder</a> and share with your friends, family and decision makers.
+- download our <a href="{{ 'assets/docs/take-action/Alto Multimodal Pathway Backgrounder 3.pdf' | relative_url }}" download="Alto Multimodal Pathway Backgrounder 3.pdf">1-page backrounder</a> and share with your friends, family and decision makers.
 
 <div class="callout">
   <h2>Need a quick answer first?</h2>

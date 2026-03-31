@@ -6,7 +6,7 @@ section_title: Issues & Solutions
 section_url: /issues-and-solutions/
 ---
 <figure>
-  <img src="{{ 'assets/images/Multimodal_pathway_issues_and_solutions_wide_aspect_ratio.png' | relative_url }}" alt="Evidence based, source-backed">
+  <img src="{{ '/assets/images/Multimodal_pathway_issues_and_solutions_wide_aspect_ratio.png' | relative_url }}" alt="Evidence based, source-backed">
 </figure>
 
 <p>Multiple stakeholders have voiced issues and concerns with the Alto project. Here we try to provide a consolidated listing of these concerns, as well as explanations of where the multimodal pathway concept could add value and a list of outstanding questions and actions.</p>
