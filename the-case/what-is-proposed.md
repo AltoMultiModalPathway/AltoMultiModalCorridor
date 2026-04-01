@@ -32,7 +32,17 @@ This proposal is closely tied to the broader Alto discussion because it addresse
 - support regional trail networks 
 - provide a tangible asset for communities regardless of whether they have a station.
 
-At the same time, it is important to be clear about what is being proposed—and what is not. This is not a finished engineering design. There are real constraints—technical, environmental, operational, and spatial—that would need to be evaluated case by case. 
+Further - for maximum effectiveness a multimodal pathway would be supported by bicycle friendly trains, stations, and connections to the stations. We propose practical measures that improve rail access by bike, including
+- bicyle spaces on trains (EU regulations currently require a minimum of 4 per train)
+- bicycle parking at stations
+- shared bicycles and bike share
+- bicycle-compatible access roads
+- signage & lighting 
+- station siting that makes bike access easier 
+
+Bicycles are not a fringe add-on; they are a station-access mode that can be designed for. There is a substantial research base showing that bicycles can help solve the first/last-mile problem for rail travel by extending station catchment areas, improving access times, and reducing dependence on car drop-off and parking. Cycling can make many more origins and destinations practically reachable by transit. The effect is strongest when the rail system is intentionally designed for bike.
+
+It is important to be clear about what is being proposed—and what is not. This is not a finished engineering design. There are real constraints—technical, environmental, operational, and spatial—that would need to be evaluated case by case. 
 
 The proposal also does not claim that a multimodal pathway would resolve all concerns associated with a project of this scale. Rather, it is intended as a practical, evidence-informed option that could address some of those concerns if considered early enough in the design process.
 

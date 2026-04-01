@@ -38,6 +38,10 @@ Rather, it is about asking whether the corridor can also deliver additional publ
 
 In that sense, the multimodal pathway concept is part of a broader public-interest conversation: how a major national investment can be designed not only to move people efficiently between cities, but also to create lasting, tangible value for the communities it touches.
 
+Importantly, a multi-modal pathway is complemented by bicycle-friendly trains and stations. People don't just travel between stations. They travel between origins and destinations. Bicycles help solve the "last-mile" problem and significantly increase the catchment area of rail stations. Cycling can also have a speed advantage over walking and driving, and reduces the need for large parking lots at stations and origin/destination parking.
+
+Tourism is also supported by cycle-friendly trains and stations. Cycling day trips and long-distance "cycle one-way and return by train" trips become possible. This opens up new recreational opportunities and brings in tourism revenue for communities.
+
 <div class="share-block">
   <h2>Share this page</h2>
   <p>If you found this useful, please share it with others.</p>

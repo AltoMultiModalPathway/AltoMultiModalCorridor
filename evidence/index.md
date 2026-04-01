@@ -57,6 +57,36 @@ The [F3 Bicycle Highway](https://www.werkenaandering.be/en/working-on/cycling-in
 
 When these principles are applied, rail-with-trail corridors can deliver significant public benefits—including improved safety through reduced trespassing, enhanced tourism and local economic activity, and better access for maintenance and emergency services—while maintaining safe and efficient rail operations.
 
+## European Cyclists Federation - Cyclists Love Trains 2025 Report
+<figure>
+  <img src="{{ 'assets/images/ECF_Cyclists_Love_Trains_2025_Report.png' | relative_url }}" alt="Various cycling storage solutions on trains are illustrated. The left part of the image shows bicycles in the passenger compartment in front of flip-up seats. The top right part of the image shows a dedicated section for bikes and front-wheel locking mechanism. The bottom right of the image shows a similar dedicated spot with a different front-wheel locking mechanism.">
+  <figcaption>Different bike storage solutions for trains. Photo credit: ECF</figcaption>
+</figure>
+[The European Cyclists Federation: Cyclists Love Trains 2025](https://ecf.com/media/ecf%20at%20velo-city/CLT/Cyclists%20Love%20Trains%202025%20Report.pdf) 
+report shows that the best bicycle–rail systems do not rely on just one feature; they work because they combine
+- good cycling access to stations
+- high-quality station bike facilities
+- and trains that can accommodate bicycles onboard
+
+ The report distinguishes between 
+ - everyday commuters—who are often best served by safe station access, strong bike parking, and bike sharing
+ - and recreational holiday travellers, for whom the ability to bring a non-dismantled bicycle on the train is especially important
+ 
+  The report supports a three-part approach: multimodal pathways and local cycling networks to feed stations, bicycle-friendly stations to solve first/last-mile access, and bicycle-friendly trains to support longer-distance, one-off, and tourism trips.
+
+## International Transport Forum - Integrating Urban Public Transport Systems and Cycling: Summary and Conclusions
+<figure>
+  <img src="{{ 'assets/images/ITF_Integrating_Urban_Public_Transport_Systems_and_Cycling.png' | relative_url }}" alt="Image showing bike share bicycles, a public transit streetcar, and taxicabs in an urban setting">
+  <figcaption>Bike share and public transit can work effectively with rail. Photo credit: International Transport Forum</figcaption>
+</figure>
+[The International Transport Forum: Integrating Urban Public Transport Systems and Cycling](https://www.itf-oecd.org/sites/default/files/docs/integrating-urban-public-transport-systems-cycling-roundtable-summary_0.pdf) 
+report shows that a successful bike–rail system needs three elements working together 
+- safe cycling routes feeding stations
+- bicycle-friendly stations with parking and/or bike-share
+- bicycle-friendly trains where onboard carriage is possible and appropriate.
+
+The report strongly supports the idea that cycling can extend the usefulness of rail, reduce dependence on car access, and improve the overall performance of the transport system when these elements are planned as one integrated whole.
+
 <div class="share-block">
   <h2>Share this page</h2>
   <p>If you found this useful, please share it with others.</p>
