@@ -80,12 +80,12 @@ report shows that the best bicycle–rail systems do not rely on just one featur
   <figcaption>An effective bike-rail system needs several elements to work together and is best designed and implemented up-front. Photo credit: International Transport Forum</figcaption>
 </figure>
 [The International Transport Forum: Integrating Urban Public Transport Systems and Cycling](https://www.itf-oecd.org/sites/default/files/docs/integrating-urban-public-transport-systems-cycling-roundtable-summary_0.pdf) 
-report shows that a successful bike–rail system needs three elements working together 
+report strongly supports the idea that cycling can extend the usefulness of rail, reduce dependence on car access, and improve the overall performance of the transport system when these elements are planned as one integrated whole.
+
+The report shows that a successful bike–rail system needs three elements working together 
 - safe cycling routes feeding stations
 - bicycle-friendly stations with parking and/or bike-share
 - bicycle-friendly trains where onboard carriage is possible and appropriate.
-
-The report strongly supports the idea that cycling can extend the usefulness of rail, reduce dependence on car access, and improve the overall performance of the transport system when these elements are planned as one integrated whole.
 
 <div class="share-block">
   <h2>Share this page</h2>
