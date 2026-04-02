@@ -77,7 +77,7 @@ report shows that the best bicycle–rail systems do not rely on just one featur
 ## International Transport Forum - Integrating Urban Public Transport Systems and Cycling: Summary and Conclusions
 <figure>
   <img src="{{ 'assets/images/ITF_Integrating_Urban_Public_Transport_Systems_and_Cycling.png' | relative_url }}" alt="Image showing bike share bicycles, a public transit streetcar, and taxicabs in an urban setting">
-  <figcaption>Bike share and public transit can work effectively with rail. Photo credit: International Transport Forum</figcaption>
+  <figcaption>An effective bike-rail system needs several elements to work together and is best designed and implemented up-front. Photo credit: International Transport Forum</figcaption>
 </figure>
 [The International Transport Forum: Integrating Urban Public Transport Systems and Cycling](https://www.itf-oecd.org/sites/default/files/docs/integrating-urban-public-transport-systems-cycling-roundtable-summary_0.pdf) 
 report shows that a successful bike–rail system needs three elements working together 
