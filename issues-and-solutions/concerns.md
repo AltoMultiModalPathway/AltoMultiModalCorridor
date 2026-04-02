@@ -8,27 +8,9 @@ section_url: /issues-and-solutions/
   <img src="{{ '/assets/images/Multimodal_pathway_issues_and_concerns_wide_aspect_ratio.png' | relative_url }}" alt="Evidence based, source-backed">
 </figure>
 
-## Railroad operations concerns
+## Stakeholder concerns
 
-From the extensive study [Rails-with-Trails: Lessons Learned](https://railroads.dot.gov/sites/fra.dot.gov/files/2021-06/Rails%20with%20Trails%20Best%20Practices%20and%20Lessons%20Learned.pdf) the concerns that railroads often have over trails adjacent to railways include:
-- trails are not part of railroad operations
-- liability exposure
-- future need for more tracks or sidings
-- increased stress on operations
-- increased maintenance complexity
-- risk of more trespassing if design is poor.
-
-A persuasive multimodal-pathway proposal should therefore show:
-
-- corridor width and future rail capacity are protected
-- fencing and separation are serious
-- crossings are carefully limited and designed
-- railroad operations and maintenance are made easier, not harder
-- liability and governance are addressed clearly.
-
-## Other stakeholder concerns
-
-There are many other concerns raised by various groups:
+There are many concerns currently raised by various groups:
 - [National Farmers Union](https://nfuontario.ca/news/national-farmers-union-ontario-policy-position-on-the-alto-high-speed-rail-project/)
 - [Eastern Ontario Warden's Caucus](https://eowc.org/news/eowc-concerns-re-alto-high-speed-rail-cutting-through-eastern-ontario/)
 - [Rideau Lakes Township](https://www.newtecumseth.ca/en/town-hall/resources/Documents/Resolutions/Township-of-Rideau-Lakes---Alto-High-Speed-Rail-Project-Bill-C-15-Budget.pdf)
@@ -58,6 +40,24 @@ The concerns raised including the following:
 - impacts on roads
 - impacts on heritage
 - drainage
+
+## Railroad operations concerns
+
+From the extensive study [Rails-with-Trails: Lessons Learned](https://railroads.dot.gov/sites/fra.dot.gov/files/2021-06/Rails%20with%20Trails%20Best%20Practices%20and%20Lessons%20Learned.pdf) the concerns that railroads often have over trails adjacent to railways include:
+- trails are not part of railroad operations
+- liability exposure
+- future need for more tracks or sidings
+- increased stress on operations
+- increased maintenance complexity
+- risk of more trespassing if design is poor.
+
+A persuasive multimodal-pathway proposal should therefore show:
+
+- corridor width and future rail capacity are protected
+- fencing and separation are serious
+- crossings are carefully limited and designed
+- railroad operations and maintenance are made easier, not harder
+- liability and governance are addressed clearly.
 
 <div class="callout">
   <h2>Next step</h2>
