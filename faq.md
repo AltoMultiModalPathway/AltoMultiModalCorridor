@@ -1,5 +1,6 @@
 ---
 title: FAQ
+description: Quick answers to recurring questions about the multimodal pathway proposal and its relationship to the Alto high-speed rail project.
 summary: Quick answers to recurring questions about the proposal.
 permalink: /faq/
 ---

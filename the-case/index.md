@@ -1,5 +1,6 @@
 ---
 title: The Case
+description: Overview of the case for designing the Alto corridor as a multimodal transportation corridor with a parallel public pathway.
 summary: Let's create a multimodal pathway alongside the Alto corridor.
 permalink: /the-case/
 section_title: The Case

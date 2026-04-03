@@ -1,5 +1,6 @@
 ---
-title: Evidence
+title: Evidence & Research
+description: Evidence section with source-backed material, examples, and research supporting multimodal pathways, bicycle-friendly trains, and bicycle-friendly stations.
 permalink: /evidence/
 section_title: Evidence
 section_url: /evidence/

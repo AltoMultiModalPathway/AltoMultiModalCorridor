@@ -1,5 +1,6 @@
 ---
 title: How the Trail Helps
+description: Concern-by-concern explanation of where a multimodal pathway may help address stakeholder concerns, where it does not, and what still requires study.
 permalink: /issues-and-solutions/how-the-trail-helps/
 section_title: Issues & Solutions
 section_url: /issues-and-solutions/

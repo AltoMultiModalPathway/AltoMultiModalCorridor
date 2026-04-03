@@ -1,5 +1,6 @@
 ---
 title: Contact
+description: Contact information for the Alto Multimodal Trail campaign.
 summary: We'd love to hear from you!
 permalink: /contact/
 ---

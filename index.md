@@ -2,6 +2,7 @@
 layout: page
 hide_title: true
 title: Home
+description: Home page for the Alto Multimodal Trail campaign, introducing the proposal to add a year-round pathway alongside the Alto corridor.
 summary: A public-benefit vision for considering a multimodal pathway alongside the proposed Alto high-speed rail project.
 permalink: /
 ---

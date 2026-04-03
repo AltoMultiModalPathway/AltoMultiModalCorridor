@@ -1,5 +1,6 @@
 ---
 title: Why It Matters
+description: Why adding a multimodal pathway matters for connectivity, local benefit, tourism, active transportation, and long-term public value.
 permalink: /the-case/why-it-matters/
 section_title: The Case
 section_url: /the-case/

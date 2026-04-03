@@ -1,5 +1,6 @@
 ---
 title: Privacy
+description: Privacy information describing how contact details are handled when visitors email the campaign.
 summary: How we handle visitor information.
 permalink: /privacy/
 ---

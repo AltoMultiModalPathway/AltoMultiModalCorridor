@@ -1,5 +1,6 @@
 ---
 title: Updates
+description: Updates on the Alto Multimodal Trail advocacy effort and links to current Alto project timelines and developments.
 permalink: /updates/
 section_title: Updates
 section_url: /updates/

@@ -1,5 +1,6 @@
 ---
 title: Get Involved
+description: Practical ways to support the campaign, contact decision-makers, and share information about the multimodal pathway proposal.
 permalink: /get-involved/
 section_title: Get Involved
 section_url: /get-involved/

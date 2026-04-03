@@ -1,5 +1,6 @@
 ---
 title: Concerns
+description: Summary of stakeholder concerns about the Alto project, including consultation, local benefit, trail disruption, environmental effects, and railroad operations.
 permalink: /issues-and-solutions/concerns/
 section_title: Issues & Solutions
 section_url: /issues-and-solutions/

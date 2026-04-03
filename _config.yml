@@ -1,14 +1,20 @@
 title: Alto Multimodal Trail
-description: A public-benefit vision for considering a multimodal trail alongside the proposed Alto high-speed rail project.
+description: Advocacy website for a multimodal pathway alongside the proposed Alto high-speed rail corridor.
 url: "https://altomultimodalpathway.github.io"
 baseurl: "/AltoMultiModalCorridor"
 markdown: kramdown
 permalink: pretty
+
 plugins:
   - jekyll-feed
-collections: {}
+  - jekyll-seo-tag
+
+logo: "/assets/images/Multimodal_pathway_conceptual_image.png"
+image: "/assets/images/Multimodal_pathway_conceptual_image.png"
+
 defaults:
   - scope:
       path: ""
     values:
       layout: page
+      image: "/assets/images/Multimodal_pathway_conceptual_image.png"

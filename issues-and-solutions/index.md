@@ -1,5 +1,6 @@
 ---
 title: Issues & Solutions
+description: Overview of the main stakeholder concerns about Alto and where the multimodal pathway concept may help, where it will not, and what still needs study.
 
 permalink: /issues-and-solutions/
 section_title: Issues & Solutions

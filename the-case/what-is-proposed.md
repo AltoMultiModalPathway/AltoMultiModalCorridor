@@ -1,5 +1,6 @@
 ---
 title: What Is Proposed?
+description: A plain-language explanation of the proposal to add a multimodal pathway alongside the Alto high-speed rail corridor where feasible and beneficial.
 permalink: /the-case/what-is-proposed/
 section_title: The Case
 section_url: /the-case/
