@@ -34,7 +34,7 @@ This proposal is closely tied to the broader Alto discussion because it addresse
 
 Further - for maximum effectiveness a multimodal pathway would be supported by bicycle friendly trains, stations, and connections to the stations. We propose practical measures that improve rail access by bike, including
 - bicyle spaces on trains (EU regulations currently require a minimum of 4 per train)
-- bicycle parking at stations
+- abundant, secure covered bike parking at the stations (similar to what exists at many stations in the Netherlands and Germany)
 - shared bicycles and bike share
 - bicycle-compatible access roads
 - signage & lighting 
