@@ -279,6 +279,5 @@ document.getElementById('share-page-button')?.addEventListener('click', async ()
 
 <div class="callout">
   <h2>Next step</h2>
-  <p>Readers who want to validate the argument should move next to the evidence section.</p>
   <p><a class="button button-primary" href="{{ '/evidence/' | relative_url }}">Evidence</a></p>
 </div>
