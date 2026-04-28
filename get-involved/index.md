@@ -13,7 +13,7 @@ section_url: /get-involved/
 ### Contact Alto
 
 - Contact [Alto](https://www.altotrain.ca/en/public-consultation).
-  - Public consultations are open now until April 24th, 2026
+  - Public consultations closed on April 24th, 2026. Additional consultations are anticipated in the coming months as the project progresses.
 
 ### Contact elected officials
 
