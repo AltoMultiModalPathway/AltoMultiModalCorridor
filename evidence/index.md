@@ -88,6 +88,19 @@ The report shows that a successful bike–rail system needs three elements worki
 - bicycle-friendly stations with parking and/or bike-share
 - bicycle-friendly trains where onboard carriage is possible and appropriate.
 
+## Ottawa O-Train
+<figure>
+  <img src="{{ 'assets/images/batch_Ottawa_O_Train_Bridge_Over_Hunt_Club.jpg' | relative_url }}" alt="Image showing the O-Train bridge over Hunt Club Road with integrated multimodal pathway">
+  <figcaption>The O-Train has included a parallel multimodal pathway in its bridge design to allow for trail continuity - such as here over Hunt Club Road</figcaption>
+</figure>
+<figure>
+  <img src="{{ 'assets/images/batch_Ottawa_O_Train_Maintenance_Road_2.jpg' | relative_url }}" alt="Image showing the maintenance road doubling as a multi-modal path beside the O-Train">
+  <figcaption>The O-Train's construction/maintenance road has been turned into a multimodal path used by hundreds of local residents and long-distance cyclists</figcaption>
+</figure>
+[Ottawa's O-Train](https://www.octranspo.com/en/our-services/o-train-network) shows how maintenance roads can be successfully re-used as a multimodal path. The maintenance road between South Keys and Leitrim stations has been turned into a beautiful pathway that is used by hundreds of local residents and long-distance cyclists each day. After the initial construction of the O-Train the gravel maintenance/construction road was re-surfaced with stone dust to provide a pedestrian and cycling friendly corridor. 
+
+The new O-Train bridges have included a parallel multimodal pathway in their design (such as over Hunt Club Road), which allows for a continuous connection from the Osgoode Recreational Trail directly into the City Of Ottawa and National Capital Commission's multi-use trail systems. Planning and building bridges with integrated pathways is crucial to maintaining trail connectivity over large obstacles such as busy roads/highways, ravines, and rivers. The O-Train shows how it can be done.
+
 <div class="share-block">
   <h2>Share this page</h2>
   <p>If you found this useful, please share it with others.</p>
